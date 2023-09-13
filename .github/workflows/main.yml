@@ -16,5 +16,5 @@ jobs:
           lfs: true
       - name: Push to hub
         env:
-          HF_TOKEN: ${{ secrets.ASR_TOKEN_WRITE}}
+          HF_TOKEN: ${{ secrets.ASR_TOKEN}}
         run: git push --force https://kplgpt68:$HF_TOKEN@huggingface.co/spaces/kplgpt68/asr_123 main
