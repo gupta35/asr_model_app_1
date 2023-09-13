@@ -1,5 +1,5 @@
 ---
-title: {{ASR_Model_!}}
+title: {{asr_model_app_1}}
 emoji: {{@}}
 colorFrom: {{colorFrom}}
 colorTo: {{colorTo}}
