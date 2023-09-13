@@ -1,10 +1,10 @@
 ---
 title: {{asr_model_app_1}}
-emoji: {{@}}
+emoji: {{😋}}
 colorFrom: {{colorFrom}}
-colorTo: {{colorTo}}
-sdk: {{sdk}}
-sdk_version: {{sdkVersion}}
+colorTo: {{blue}}
+sdk: {{streamlit}}
+sdk_version: {{Python 3.10.0}}
 app_file: app.py
 pinned: false
 ---
